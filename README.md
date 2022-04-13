@@ -10,12 +10,6 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-mini-extensions`:
-
-```sh
-npm install eslint-plugin-mini-extensions --save-dev
-```
-
 ## Usage
 
 Add `mini-extensions` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
